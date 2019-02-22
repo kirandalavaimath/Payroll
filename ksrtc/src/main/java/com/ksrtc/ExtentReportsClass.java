@@ -16,7 +16,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class ExtentReportsClass{
 	ExtentReports extent;
-	ExtentTest logger;
+	ExtentTest logger;;;;;;;;;;;;
 	
 	
 	@BeforeTest
